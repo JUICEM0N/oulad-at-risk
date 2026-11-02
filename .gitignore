@@ -1,0 +1,9 @@
+# OULAD is about 450 MB unzipped; download it with download_data.py instead of committing it
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+__pycache__/
+.venv/
+.ipynb_checkpoints/
